@@ -51,3 +51,11 @@ function solution(string) {
     + #### [Source code](https://github.com/evilevgeniys/portfolioReactSite)
 
 ********
+
+## Courses : 
+* ### PHPLab - *AteviSystems* (**Complete**) 
+* ### Иван Петриченко "Web-разработчик" - *[Udemy.com](Udemy.com)* (**Complete**)
+* ### Иван Петриченко "Полный курс по JavaScript + React" - *[Udemy.com](Udemy.com)* (**in progress**)
+* ### JavaScript/Front-end. Stage 0 - *[RS Schools](rs.school)* (**in progress**)
+
+******
