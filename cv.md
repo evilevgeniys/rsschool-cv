@@ -51,6 +51,11 @@ function solution(string) {
     + #### [Source code](https://github.com/evilevgeniys/portfolioReactSite)
 
 ********
+## Education : 
+* ### **Brest State Technical University** - Bachelor's degree (HVAC Engineer)
+* ### **Brest State Technical University** - Bachelor's degree (**Software Engineer**)
+
+******
 
 ## Courses : 
 * ### PHPLab - *AteviSystems* (**Complete**) 
@@ -59,3 +64,4 @@ function solution(string) {
 * ### JavaScript/Front-end. Stage 0 - *[RS Schools](rs.school)* (**in progress**)
 
 ******
+
