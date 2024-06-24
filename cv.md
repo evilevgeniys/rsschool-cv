@@ -65,3 +65,7 @@ function solution(string) {
 
 ******
 
+## Languages : 
+* ### Russian - Native
+* ### Belarussian - Native
+* ### English - Pre-intermediate
