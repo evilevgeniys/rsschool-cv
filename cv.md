@@ -26,3 +26,17 @@ As for my hobbies, I like to play the electric guitar, play volleyball and table
 
 ******
 
+## Code example :
+
+My solution for a task from the site [codewars](codewars.com)
+### [Task](https://www.codewars.com/kata/5208f99aee097e6552000148) :
+
+"Complete the solution so that the function will break up camel casing, using a space between words."
+
+### Solution :
+```JavaScript
+function solution(string) {
+  return string.replace(/[A-Z]/g, " $&")
+}
+```
+
